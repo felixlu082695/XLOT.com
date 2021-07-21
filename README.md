@@ -1,1 +1,1 @@
-# XLOT.com
+# XLOT.github.io
